@@ -1,0 +1,1 @@
+{"name":"ml-ninja","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview","test":"vitest run","bench":"node scripts/bench.js"},"dependencies":{"gsap":"^3.12.5","three":"^0.170.0"},"devDependencies":{"vite":"^6.0.0","vitest":"^2.1.5"}}
